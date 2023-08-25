@@ -1,7 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
 .navbar-brand img{
     width: 50px;
     margin: 10px;
@@ -94,4 +91,14 @@
 }
 #back-link:hover {
     text-decoration: none;
+}
+
+/* CREATE */
+#create-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#edit-form {
+
 }
