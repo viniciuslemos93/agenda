@@ -6,7 +6,7 @@
             <?php if(isset($printMsg) && $printMsg != ''): ?>
             <p id="msg"><?= $printMsg ?></p>
         <?php endif; ?>
-        <h1 id="main-title">Minha Agenda</h1>
+        <h1 id="main-title" class="text-center">Minha Agenda</h1>
         <?php if (count ($contacts) > 0) : ?>
             <table class="table" id="contacts-table">
                 <thead>
