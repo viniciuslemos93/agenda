@@ -22,7 +22,7 @@
             <button type="submit" class="btn btn-primary">Atualizar</button>
         </form>
     </div>
-    
+
 <?php
     include_once("templates/footer.php");
 ?>
